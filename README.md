@@ -36,5 +36,4 @@ MCP · local models (Ollama) · agent presets · prompt and context cost control
 ## Contact
 
 - Telegram: [@ganeshvara](https://t.me/ganeshvara)
-- Email: hypercube@inbox.ru
 - Based in Saint Petersburg, Russia
